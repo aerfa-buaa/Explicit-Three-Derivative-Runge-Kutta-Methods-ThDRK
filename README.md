@@ -2,6 +2,7 @@
 This work is the result of our article[1] and builds the order accuracy conditions for Three-Derivative Runge-Kutta Methods (ThDRK). There are two devices to build the order conditions for Runge-Kutta methods: rooted trees[2] and Albrecht's approach[3]. The code file shows the order accuracy conditions for ThDRK by Albrecht's approach and verified the coefficients are equivalent for the conditions by rooted trees theory[4].
 
 *.nb file is run on Wolfram Mathematica 12, it may be able to run on other versions.
+
 *.cpp files are the code for our numerical experiments.
 
 
